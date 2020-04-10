@@ -85,6 +85,7 @@ img  {
   justify-content:space-evenly;
   list-style-type:none;
   padding: 3px;
+  overflow: auto;
 }
 
 .nav a.active  {
@@ -177,6 +178,7 @@ footer p  {
   display: inline-block;
   position: relative;
 }
+
 .coupon {
   text-align: center;
 }
